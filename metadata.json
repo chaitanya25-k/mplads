@@ -1,0 +1,6 @@
+{
+  "name": "MPLADS Anomaly & Fraud Detection AI Platform",
+  "description": "AI-powered monitoring, fraud detection, duplicate work scanning, and expenditure anomaly analytics platform for the Members of Parliament Local Area Development Scheme (MoSPI - DIID).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
